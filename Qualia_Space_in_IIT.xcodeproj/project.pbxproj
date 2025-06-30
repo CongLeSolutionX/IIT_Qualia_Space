@@ -1,0 +1,563 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXContainerItemProxy section */
+		9A0C96EA2E1281A200CB03BF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9A0C96D42E1281A100CB03BF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9A0C96DB2E1281A100CB03BF;
+			remoteInfo = Qualia_Space_in_IIT;
+		};
+		9A0C96F42E1281A200CB03BF /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 9A0C96D42E1281A100CB03BF /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 9A0C96DB2E1281A100CB03BF;
+			remoteInfo = Qualia_Space_in_IIT;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		9A0C96DC2E1281A100CB03BF /* Qualia_Space_in_IIT.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Qualia_Space_in_IIT.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A0C96E92E1281A200CB03BF /* Qualia_Space_in_IITTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Qualia_Space_in_IITTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		9A0C96F32E1281A200CB03BF /* Qualia_Space_in_IITUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Qualia_Space_in_IITUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFileSystemSynchronizedRootGroup section */
+		9A0C96DE2E1281A100CB03BF /* Qualia_Space_in_IIT */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Qualia_Space_in_IIT;
+			sourceTree = "<group>";
+		};
+		9A0C96EC2E1281A200CB03BF /* Qualia_Space_in_IITTests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Qualia_Space_in_IITTests;
+			sourceTree = "<group>";
+		};
+		9A0C96F62E1281A200CB03BF /* Qualia_Space_in_IITUITests */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Qualia_Space_in_IITUITests;
+			sourceTree = "<group>";
+		};
+/* End PBXFileSystemSynchronizedRootGroup section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		9A0C96D92E1281A100CB03BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A0C96E62E1281A200CB03BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A0C96F02E1281A200CB03BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		9A0C96D32E1281A100CB03BF = {
+			isa = PBXGroup;
+			children = (
+				9A0C96DE2E1281A100CB03BF /* Qualia_Space_in_IIT */,
+				9A0C96EC2E1281A200CB03BF /* Qualia_Space_in_IITTests */,
+				9A0C96F62E1281A200CB03BF /* Qualia_Space_in_IITUITests */,
+				9A0C96DD2E1281A100CB03BF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		9A0C96DD2E1281A100CB03BF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				9A0C96DC2E1281A100CB03BF /* Qualia_Space_in_IIT.app */,
+				9A0C96E92E1281A200CB03BF /* Qualia_Space_in_IITTests.xctest */,
+				9A0C96F32E1281A200CB03BF /* Qualia_Space_in_IITUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		9A0C96DB2E1281A100CB03BF /* Qualia_Space_in_IIT */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9A0C96FD2E1281A200CB03BF /* Build configuration list for PBXNativeTarget "Qualia_Space_in_IIT" */;
+			buildPhases = (
+				9A0C96D82E1281A100CB03BF /* Sources */,
+				9A0C96D92E1281A100CB03BF /* Frameworks */,
+				9A0C96DA2E1281A100CB03BF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				9A0C96DE2E1281A100CB03BF /* Qualia_Space_in_IIT */,
+			);
+			name = Qualia_Space_in_IIT;
+			packageProductDependencies = (
+			);
+			productName = Qualia_Space_in_IIT;
+			productReference = 9A0C96DC2E1281A100CB03BF /* Qualia_Space_in_IIT.app */;
+			productType = "com.apple.product-type.application";
+		};
+		9A0C96E82E1281A200CB03BF /* Qualia_Space_in_IITTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9A0C97002E1281A200CB03BF /* Build configuration list for PBXNativeTarget "Qualia_Space_in_IITTests" */;
+			buildPhases = (
+				9A0C96E52E1281A200CB03BF /* Sources */,
+				9A0C96E62E1281A200CB03BF /* Frameworks */,
+				9A0C96E72E1281A200CB03BF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9A0C96EB2E1281A200CB03BF /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				9A0C96EC2E1281A200CB03BF /* Qualia_Space_in_IITTests */,
+			);
+			name = Qualia_Space_in_IITTests;
+			packageProductDependencies = (
+			);
+			productName = Qualia_Space_in_IITTests;
+			productReference = 9A0C96E92E1281A200CB03BF /* Qualia_Space_in_IITTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		9A0C96F22E1281A200CB03BF /* Qualia_Space_in_IITUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 9A0C97032E1281A200CB03BF /* Build configuration list for PBXNativeTarget "Qualia_Space_in_IITUITests" */;
+			buildPhases = (
+				9A0C96EF2E1281A200CB03BF /* Sources */,
+				9A0C96F02E1281A200CB03BF /* Frameworks */,
+				9A0C96F12E1281A200CB03BF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				9A0C96F52E1281A200CB03BF /* PBXTargetDependency */,
+			);
+			fileSystemSynchronizedGroups = (
+				9A0C96F62E1281A200CB03BF /* Qualia_Space_in_IITUITests */,
+			);
+			name = Qualia_Space_in_IITUITests;
+			packageProductDependencies = (
+			);
+			productName = Qualia_Space_in_IITUITests;
+			productReference = 9A0C96F32E1281A200CB03BF /* Qualia_Space_in_IITUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		9A0C96D42E1281A100CB03BF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1640;
+				LastUpgradeCheck = 1640;
+				TargetAttributes = {
+					9A0C96DB2E1281A100CB03BF = {
+						CreatedOnToolsVersion = 16.4;
+					};
+					9A0C96E82E1281A200CB03BF = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 9A0C96DB2E1281A100CB03BF;
+					};
+					9A0C96F22E1281A200CB03BF = {
+						CreatedOnToolsVersion = 16.4;
+						TestTargetID = 9A0C96DB2E1281A100CB03BF;
+					};
+				};
+			};
+			buildConfigurationList = 9A0C96D72E1281A100CB03BF /* Build configuration list for PBXProject "Qualia_Space_in_IIT" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 9A0C96D32E1281A100CB03BF;
+			minimizedProjectReferenceProxies = 1;
+			preferredProjectObjectVersion = 77;
+			productRefGroup = 9A0C96DD2E1281A100CB03BF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				9A0C96DB2E1281A100CB03BF /* Qualia_Space_in_IIT */,
+				9A0C96E82E1281A200CB03BF /* Qualia_Space_in_IITTests */,
+				9A0C96F22E1281A200CB03BF /* Qualia_Space_in_IITUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		9A0C96DA2E1281A100CB03BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A0C96E72E1281A200CB03BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A0C96F12E1281A200CB03BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		9A0C96D82E1281A100CB03BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A0C96E52E1281A200CB03BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		9A0C96EF2E1281A200CB03BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		9A0C96EB2E1281A200CB03BF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9A0C96DB2E1281A100CB03BF /* Qualia_Space_in_IIT */;
+			targetProxy = 9A0C96EA2E1281A200CB03BF /* PBXContainerItemProxy */;
+		};
+		9A0C96F52E1281A200CB03BF /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 9A0C96DB2E1281A100CB03BF /* Qualia_Space_in_IIT */;
+			targetProxy = 9A0C96F42E1281A200CB03BF /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		9A0C96FB2E1281A200CB03BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = 99WD9D6Y46;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		9A0C96FC2E1281A200CB03BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = 99WD9D6Y46;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		9A0C96FE2E1281A200CB03BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 99WD9D6Y46;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tech.CongLeSolutionX.Qualia-Space-in-IIT";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		9A0C96FF2E1281A200CB03BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 99WD9D6Y46;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tech.CongLeSolutionX.Qualia-Space-in-IIT";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		9A0C97012E1281A200CB03BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 99WD9D6Y46;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tech.CongLeSolutionX.Qualia-Space-in-IITTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Qualia_Space_in_IIT.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Qualia_Space_in_IIT";
+			};
+			name = Debug;
+		};
+		9A0C97022E1281A200CB03BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 99WD9D6Y46;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tech.CongLeSolutionX.Qualia-Space-in-IITTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Qualia_Space_in_IIT.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Qualia_Space_in_IIT";
+			};
+			name = Release;
+		};
+		9A0C97042E1281A200CB03BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 99WD9D6Y46;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tech.CongLeSolutionX.Qualia-Space-in-IITUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Qualia_Space_in_IIT;
+			};
+			name = Debug;
+		};
+		9A0C97052E1281A200CB03BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 99WD9D6Y46;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "tech.CongLeSolutionX.Qualia-Space-in-IITUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = Qualia_Space_in_IIT;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		9A0C96D72E1281A100CB03BF /* Build configuration list for PBXProject "Qualia_Space_in_IIT" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A0C96FB2E1281A200CB03BF /* Debug */,
+				9A0C96FC2E1281A200CB03BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9A0C96FD2E1281A200CB03BF /* Build configuration list for PBXNativeTarget "Qualia_Space_in_IIT" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A0C96FE2E1281A200CB03BF /* Debug */,
+				9A0C96FF2E1281A200CB03BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9A0C97002E1281A200CB03BF /* Build configuration list for PBXNativeTarget "Qualia_Space_in_IITTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A0C97012E1281A200CB03BF /* Debug */,
+				9A0C97022E1281A200CB03BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		9A0C97032E1281A200CB03BF /* Build configuration list for PBXNativeTarget "Qualia_Space_in_IITUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				9A0C97042E1281A200CB03BF /* Debug */,
+				9A0C97052E1281A200CB03BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 9A0C96D42E1281A100CB03BF /* Project object */;
+}
