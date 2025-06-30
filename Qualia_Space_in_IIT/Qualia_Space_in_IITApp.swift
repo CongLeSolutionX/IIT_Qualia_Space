@@ -11,7 +11,7 @@ import SwiftUI
 struct Qualia_Space_in_IITApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            QualiaSpaceView()
         }
     }
 }
