@@ -5,10 +5,6 @@
 		<strong>IIT Qualia Space</strong>
 	</h1>
     <p>SwiftUI implementation of the Qualia Space in Information Integration Theory</p>
-	
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](LICENSE-CC-BY)
-
-Copyright © 2025 Cong Le. All Rights Reserved.
 
  
 </div>
@@ -18,23 +14,20 @@ Copyright © 2025 Cong Le. All Rights Reserved.
 ---
 
 <div align="center">
-	
-⚠️🏗️🚧🦺🧱🪵🪨🪚🛠️👷
-
-The documentation for this project is under construction....
-
-![WIP](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3lmN2UzbHE1d3kzNGF6dGloMTdoajNoeWNtemQ3NW1kNnoyN2ZodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/v7dNAqqlAXYbvSX57O/giphy.gif)
-
----
-
-
-![Loading...](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExenR6Z2FuMHhyZXBpM3Bkb3ptaDlyemRoY25udHRiazk2dG50MHJpdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w3J7mstYCISqs/giphy.gif)
-
-
-gif image is provided by [Giphy](https://giphy.com)
-
-⚠️🏗️🚧🦺🧱🪵🪨🪚🛠️👷
-	
+  <blockquote>
+  As a visual learner student, I created these personal study notes from the cited source(s) to aid my understanding.<br/>
+  While my firm intention is to provide full credit, the blended format of notes and diagrams may sometimes obscure the original source, for which I apologize.<br/>
+  I am committed to making corrections and welcome any feedback.<br/>
+  This is a non-commercial project for my humble educational purposes only since the start.<br/>
+  My goal is to share my perspective and contribute to the great work already being done.
+  <br/>
+  <br/>
+  I want to extend my genuine apologies to the creators of the original material.<br/>
+  Their work was the direct inspiration for this project, and I adapted it without first reaching out.<br/>
+  My intent comes from a place of deep respect, and I hope this is received in the spirit of homage.<br/>
+  🙏🏼🙏🏼🙏🏼🙏🏼
+  </blockquote>
 </div>
 
 ----
+
